@@ -1,0 +1,41 @@
+.Modal{
+    position: fixed;
+    background-color:lightgray;
+    left: 50%;
+    width: 75%;
+    height: 80%;
+    top: 75px;
+    bottom: auto;
+    margin-left: -37.5%;
+    overflow-y:scroll;
+    
+}
+
+
+
+.modalContent {
+  background-color:lightgray;
+  
+}
+
+
+
+.modal-title {
+  margin: 0;
+}
+
+.modalBody {
+    background-color: #fff;
+  padding: 10px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.modalHeader,
+.modalFooter {
+  padding: 10px;
+}
+
+.text-color{
+  color: cadetblue;
+}

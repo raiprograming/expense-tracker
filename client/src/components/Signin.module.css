@@ -1,0 +1,13 @@
+.center{
+    align-self: center;
+}
+.h1{
+    color: blue;
+}
+label{
+    font-size: large;
+    color: green;
+}
+.headText{
+    color: darkgray;
+}
